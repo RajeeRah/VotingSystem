@@ -8,9 +8,9 @@ Tasks i have completed:
 10. Adding Region specific Function and displaying the result -> 1h
 
 Tools and Installation:
-User Server: Apache
-PHP version: 5.6
-mySql version 5.6
+* User Server: Apache
+* PHP version: 5.6
+* mySql version 5.6
 
 - the attached zip File should be extracted in Root folder (exp. htdocs)
 - create a new Database called TestDB  / username:root, password:root (or change the DB configuration according to your wish, this file is located ‚app/model/VotingsService.php‘)
