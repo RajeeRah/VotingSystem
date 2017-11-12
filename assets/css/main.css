@@ -1,0 +1,41 @@
+.poll {
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.poll-question {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.poll-options {
+    margin-bottom: 20px;
+}
+
+.poll-option {
+    margin-bottom: 10px;
+}
+
+table.votings {
+    width: 100%;
+}
+
+table.votings thead {
+    background-color: #eee;
+    text-align: left;
+}
+
+table.votings thead th {
+    border: solid 1px #fff;
+    padding: 3px;
+}
+
+table.votings tbody td {
+    border: solid 1px #eee;
+    padding: 3px;
+}
+
+a, a:hover, a:active, a:visited {
+    color: blue;
+    text-decoration: underline;
+}
